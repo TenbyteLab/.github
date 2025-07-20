@@ -4,9 +4,6 @@
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 15px; margin: 20px 0;">
   <div style="background: #0a0a0a; padding: 30px; border-radius: 13px; border: 2px solid #4c1d95;">
-    <h2 style="color: #a855f7; text-shadow: 0 0 20px #a855f7; margin: 0; font-family: 'Courier New', monospace;">
-      ⚡ EXPLORING THE DIGITAL COSMOS ⚡
-    </h2>
     <p style="color: #60a5fa; margin: 10px 0 0 0; font-size: 18px;">
       University Projects • Web Applications • Code Examples
     </p>
